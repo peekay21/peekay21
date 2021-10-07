@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pradip Kumar Murmu 
-- 👀 I’m interested in Data Science and Machine Learning 
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on Data Science and Machine Learning related projects
+- 👀 I’m interested in Python and Django Frameworks. 
+- 🌱 I’m currently learning Django and python advanced.
+- 💞️ I’m looking to collaborate on Django and python module related projects
 - 📫 Reach me pradiputtama2117@gmail.com
 
 <!---
