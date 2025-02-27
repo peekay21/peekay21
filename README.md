@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm **Pradip Kumar Murmu**, a passionate developer currently working as a **Project Associate** at the **Indian Institute of Technology, Madras Online BSc Degree Program**. I hold a **Bachelor of Technology in Computer Science & Engineering** from the **Indian Institute of Technology (Indian School of Mines), Dhanbad**.
+I'm **Pradip Kumar Murmu**, a passionate developer currently working in National Informatics Centre. Previously worked as **Project Associate** at the **Indian Institute of Technology, Madras Online BSc Degree Program**. I hold a **Bachelor of Technology in Computer Science & Engineering** from the **Indian Institute of Technology (Indian School of Mines), Dhanbad**.
 
 ## 💻 Tech Stack & Interests
 
@@ -14,7 +14,7 @@ I'm **Pradip Kumar Murmu**, a passionate developer currently working as a **Proj
 
 ## 📫 Connect With Me
 
-- 📧 Email: [murmu4apple@gmail.com](mailto:murmu4apple@gmail.com)
+- 📧 Email: [murmu4apple@gmail.com](mailto:trexperiment2050e@gmail.com)
 - 💼 GitHub: [peekay21](https://github.com/peekay21)
 - 🔗 LinkedIn: [Pradip Kumar Murmu](https://www.linkedin.com/in/pradip-kumar-murmu-299280178/) 
 
