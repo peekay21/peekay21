@@ -14,7 +14,7 @@ I'm **Pradip Kumar Murmu**, a passionate developer currently working at the **Na
 
 ## 📫 Connect With Me
 
-- 📧 Email: [murmu4apple@gmail.com](mailto:murmu4apple@gmail.com)
+- 📧 Email: [pradiputtama2117@gmail.com](mailto:pradiputtama2117@gmail.com)
 - 💼 GitHub: [peekay21](https://github.com/peekay21), [trexperiment](https://github.com/trexperiment)
 - 🔗 LinkedIn: [Pradip Kumar Murmu](https://www.linkedin.com/in/pradip-kumar-murmu-299280178/)
 
